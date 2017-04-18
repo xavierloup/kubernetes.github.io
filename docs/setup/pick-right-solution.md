@@ -44,6 +44,9 @@ clusters.
 [Azure Container Service](https://azure.microsoft.com/en-us/services/container-service/) can easily deploy Kubernetes
 clusters.
 
+[IBM Bluemix Container Service](https://console.ng.bluemix.net/docs/containers/cs_ov.html) offers managed Kubernetes
+clusters (currently in beta).
+
 [Stackpoint.io](https://stackpoint.io) provides Kubernetes infrastructure automation and management for multiple public clouds.
 
 [AppsCode.com](https://appscode.com/products/cloud-deployment/) provides managed Kubernetes clusters for various public clouds (including AWS and Google Cloud Platform).
@@ -68,7 +71,7 @@ few commands, and have active community support.
 - [Azure](/docs/getting-started-guides/azure)
 - [Tectonic by CoreOS](https://coreos.com/tectonic)
 - [CenturyLink Cloud](/docs/getting-started-guides/clc)
-- [IBM SoftLayer](https://github.com/patrocinio/kubernetes-softlayer)
+- [IBM Bluemix](https://github.com/patrocinio/kubernetes-softlayer)
 - [Stackpoint.io](/docs/getting-started-guides/stackpoint/)
 - [KUBE2GO.io](https://kube2go.io/)
 - [Madcore.Ai](https://madcore.ai/)
